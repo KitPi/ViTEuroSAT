@@ -1,3 +1,8 @@
 EuroSAT/
 *.keras
 .ipynb_checkpoints
+vit/
+vit_tf/
+euroSAT.keras
+EuroSAT/
+Python-3.11.3/
